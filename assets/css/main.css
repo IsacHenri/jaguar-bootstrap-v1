@@ -910,7 +910,7 @@ section,
   position: relative;
   border-radius: 50%;
   padding: 6px;
-  background: linear-gradient(135deg, var(--accent-color), color-mix(in srgb, var(--accent-color), #ff6b9d 50%));
+  background: linear-gradient(135deg, var(--accent-color), color-mix(in srgb, var(--accent-color), #020202 50%));
 }
 
 .about .profile-card .profile-header .profile-avatar img {
