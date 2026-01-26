@@ -784,7 +784,8 @@ section,
   padding-bottom: 80px;
 }
 
-.hero img {
+.hero img,
+.hero video {
   position: absolute;
   inset: 0;
   display: block;
@@ -793,6 +794,7 @@ section,
   object-fit: cover;
   z-index: 1;
 }
+
 
 .hero:before {
   content: "";
