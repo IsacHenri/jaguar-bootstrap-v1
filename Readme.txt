@@ -1,1 +1,1 @@
-Author: Isac Henrique, Gabriel Gomes.
+Author: Isac Henrique, Gabriel Campos.
